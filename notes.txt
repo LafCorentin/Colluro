@@ -1,0 +1,7 @@
+installation
+
+installation de Anaconda3
++	pip install eyeD3
++	pip install libmagic
++	pip install python-magic-bin==0.4.14
+
